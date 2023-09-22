@@ -16,6 +16,7 @@ Utilizing HTML, CSS, and Javascript, this website is straightforward. The user-s
 <hr>
 
 ### Preview of the project:
+https://oberoivasu.github.io/Meal_recomendation/
 
 
 <hr>
